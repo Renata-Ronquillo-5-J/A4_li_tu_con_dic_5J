@@ -1,5 +1,10 @@
 # A4_li_tu_con_dic_5J
 Ejemplo en python sobre listas, tuplas, conjuntos y diccionarios
+## Ejemplo de Lista
+- ![image](https://github.com/user-attachments/assets/69079051-4c2d-421c-9d4d-85dbf09b0e9f)
+- Resultado
+- ![image](https://github.com/user-attachments/assets/3255d54e-2242-4d12-b006-a5e4701b9161)
+
 ## Ejmeplo de tuplas
 - ![image](https://github.com/user-attachments/assets/aef2a011-5f58-4753-b12f-6552ac56be6a)
 - Resultado
